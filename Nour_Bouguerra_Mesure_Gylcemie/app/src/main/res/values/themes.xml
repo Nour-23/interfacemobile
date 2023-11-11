@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Nour_Bouguerra_Mesure_Gylcemie" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Nour_Bouguerra_Mesure_Gylcemie" parent="Base.Theme.Nour_Bouguerra_Mesure_Gylcemie" />
+</resources>
